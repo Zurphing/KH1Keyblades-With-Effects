@@ -1,0 +1,2595 @@
+description: Imports KH1's keyblades into KH2, complete with their original effects.
+assets:
+#MODELS:
+assets:
+- name: obj\W_EX010_40.mdlx #Diamond Dust
+  method: copy
+  source:
+  - name: obj\W_EX010_40.mdlx
+- name: obj\W_EX010_40_NM.mdlx #Diamond Dust
+  method: copy
+  source:
+  - name: obj\W_EX010_40_NM.mdlx
+- name: obj\W_EX010_40_TR.mdlx #Diamond Dust
+  method: copy
+  source:
+  - name: obj\W_EX010_40_TR.mdlx
+- name: obj\W_EX010_40_WI.mdlx #Diamond Dust
+  method: copy
+  source:
+  - name: obj\W_EX010_40_WI.mdlx
+- name: obj\W_EX010_50.mdlx #Olympia
+  method: copy
+  source:
+  - name: obj\W_EX010_50.mdlx
+- name: obj\W_EX010_50_NM.mdlx #Olympia
+  method: copy
+  source:
+  - name: obj\W_EX010_50_NM.mdlx
+- name: obj\W_EX010_50_TR.mdlx #Olympia
+  method: copy
+  source:
+  - name: obj\W_EX010_50_TR.mdlx
+- name: obj\W_EX010_50_WI.mdlx #Olympia
+  method: copy
+  source:
+  - name: obj\W_EX010_50_WI.mdlx
+- name: obj\W_EX010_70.mdlx #Lady Luck
+  method: copy
+  source:
+  - name: obj\W_EX010_70.mdlx
+- name: obj\W_EX010_70_NM.mdlx #Lady Luck
+  method: copy
+  source:
+  - name: obj\W_EX010_70_NM.mdlx
+- name: obj\W_EX010_70_TR.mdlx #Lady Luck
+  method: copy
+  source:
+  - name: obj\W_EX010_70_TR.mdlx
+- name: obj\W_EX010_70_WI.mdlx #Lady Luck
+  method: copy
+  source:
+  - name: obj\W_EX010_70_WI.mdlx
+- name: obj\W_EX010_80.mdlx #Jungle King
+  method: copy
+  source:
+  - name: obj\W_EX010_80.mdlx
+- name: obj\W_EX010_80_NM.mdlx #Jungle King
+  method: copy
+  source:
+  - name: obj\W_EX010_80_NM.mdlx
+- name: obj\W_EX010_80_TR.mdlx #Jungle King
+  method: copy
+  source:
+  - name: obj\W_EX010_80_TR.mdlx
+- name: obj\W_EX010_80_WI.mdlx #Jungle King
+  method: copy
+  source:
+  - name: obj\W_EX010_80_WI.mdlx
+- name: obj\W_EX010_90.mdlx #Spellbinder
+  method: copy
+  source:
+  - name: obj\W_EX010_90.mdlx
+- name: obj\W_EX010_90_NM.mdlx #Spellbinder
+  method: copy
+  source:
+  - name: obj\W_EX010_90_NM.mdlx
+- name: obj\W_EX010_90_TR.mdlx #Spellbinder
+  method: copy
+  source:
+  - name: obj\W_EX010_90_TR.mdlx
+- name: obj\W_EX010_90_WI.mdlx #Spellbinder
+  method: copy
+  source:
+  - name: obj\W_EX010_90_WI.mdlx
+- name: obj\W_EX010_A0.mdlx #FairyHarp
+  method: copy
+  source:
+  - name: obj\W_EX010_A0.mdlx
+- name: obj\W_EX010_A0_NM.mdlx #FairyHarp
+  method: copy
+  source:
+  - name: obj\W_EX010_A0_NM.mdlx
+- name: obj\W_EX010_A0_TR.mdlx #FairyHarp
+  method: copy
+  source:
+  - name: obj\W_EX010_A0_TR.mdlx
+- name: obj\W_EX010_A0_WI.mdlx #FairyHarp
+  method: copy
+  source:
+  - name: obj\W_EX010_A0_WI.mdlx
+- name: obj\W_EX010_B0.mdlx #Divine Rose
+  method: copy
+  source:
+  - name: obj\W_EX010_B0.mdlx
+- name: obj\W_EX010_B0_NM.mdlx #Divine Rose
+  method: copy
+  source:
+  - name: obj\W_EX010_B0_NM.mdlx
+- name: obj\W_EX010_B0_TR.mdlx #Divine Rose
+  method: copy
+  source:
+  - name: obj\W_EX010_B0_TR.mdlx
+- name: obj\W_EX010_B0_WI.mdlx #Divine Rose
+  method: copy
+  source:
+  - name: obj\W_EX010_B0_WI.mdlx
+- name: obj\W_EX010_C0.mdlx #Metal Chocobo
+  method: copy
+  source:
+  - name: obj\W_EX010_C0.mdlx
+- name: obj\W_EX010_C0_NM.mdlx #Metal Chocobo
+  method: copy
+  source:
+  - name: obj\W_EX010_C0_NM.mdlx
+- name: obj\W_EX010_C0_TR.mdlx #Metal Chocobo
+  method: copy
+  source:
+  - name: obj\W_EX010_C0_TR.mdlx
+- name: obj\W_EX010_C0_WI.mdlx #Metal Chocobo
+  method: copy
+  source:
+  - name: obj\W_EX010_C0_WI.mdlx
+- name: obj\W_EX010_D0.mdlx #Three Wishes
+  method: copy
+  source:
+  - name: obj\W_EX010_D0.mdlx
+- name: obj\W_EX010_D0_NM.mdlx #Three Wishes
+  method: copy
+  source:
+  - name: obj\W_EX010_D0_NM.mdlx
+- name: obj\W_EX010_D0_TR.mdlx #Three Wishes
+  method: copy
+  source:
+  - name: obj\W_EX010_D0_TR.mdlx
+- name: obj\W_EX010_D0_WI.mdlx #Three Wishes
+  method: copy
+  source:
+  - name: obj\W_EX010_D0_WI.mdlx
+- name: obj\W_EX010_E0.mdlx #Pumpkin Head
+  method: copy
+  source:
+  - name: obj\W_EX010_E0.mdlx
+- name: obj\W_EX010_E0_NM.mdlx #Pumpkin Head
+  method: copy
+  source:
+  - name: obj\W_EX010_E0_NM.mdlx
+- name: obj\W_EX010_E0_TR.mdlx #Pumpkin Head
+  method: copy
+  source:
+  - name: obj\W_EX010_E0_TR.mdlx
+- name: obj\W_EX010_E0_WI.mdlx #Pumpkin Head
+  method: copy
+  source:
+  - name: obj\W_EX010_E0_WI.mdlx
+- name: obj\W_EX010_F0.mdlx #Lionheart
+  method: copy
+  source:
+  - name: obj\W_EX010_F0.mdlx
+- name: obj\W_EX010_F0_NM.mdlx #Lionheart
+  method: copy
+  source:
+  - name: obj\W_EX010_F0_NM.mdlx
+- name: obj\W_EX010_F0_TR.mdlx #Lionheart
+  method: copy
+  source:
+  - name: obj\W_EX010_F0_TR.mdlx
+- name: obj\W_EX010_F0_WI.mdlx #Lionheart
+  method: copy
+  source:
+  - name: obj\W_EX010_F0_WI.mdlx
+- name: obj\W_EX010_G0.mdlx #Wishing Star
+  method: copy
+  source:
+  - name: obj\W_EX010_G0.mdlx
+- name: obj\W_EX010_G0_NM.mdlx #Wishing Star
+  method: copy
+  source:
+  - name: obj\W_EX010_G0_NM.mdlx
+- name: obj\W_EX010_G0_TR.mdlx #Wishing Star
+  method: copy
+  source:
+  - name: obj\W_EX010_G0_TR.mdlx
+- name: obj\W_EX010_G0_WI.mdlx #Wishing Star
+  method: copy
+  source:
+  - name: obj\W_EX010_G0_WI.mdlx
+- name: obj\W_EX010_H0.mdlx #Crabclaw
+  method: copy
+  source:
+  - name: obj\W_EX010_H0.mdlx
+- name: obj\W_EX010_H0_NM.mdlx #Crabclaw
+  method: copy
+  source:
+  - name: obj\W_EX010_H0_NM.mdlx
+- name: obj\W_EX010_H0_TR.mdlx #Crabclaw
+  method: copy
+  source:
+  - name: obj\W_EX010_H0_TR.mdlx
+- name: obj\W_EX010_H0_WI.mdlx #Crabclaw
+  method: copy
+  source:
+  - name: obj\W_EX010_H0_WI.mdlx
+- name: obj\W_EX010_M0.mdlx #One-Winged Angel
+  method: copy
+  source:
+  - name: obj\W_EX010_M0.mdlx
+- name: obj\W_EX010_M0_NM.mdlx #One-Winged Angel
+  method: copy
+  source:
+  - name: obj\W_EX010_M0_NM.mdlx
+- name: obj\W_EX010_M0_TR.mdlx #One-Winged Angel
+  method: copy
+  source:
+  - name: obj\W_EX010_M0_TR.mdlx
+- name: obj\W_EX010_M0_WI.mdlx #One-Winged Angel
+  method: copy
+  source:
+  - name: obj\W_EX010_M0_WI.mdlx
+#PAX
+- name: obj/W_EX010_40.a.fm #Diamond Dust PAX: PS2
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/40.pax
+- name: obj/W_EX010_40_NM.a.fm
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/40.pax
+- name: obj/W_EX010_40_TR.a.fm
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/40.pax
+- name: obj/W_EX010_40_WI.a.fm
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/40.pax
+- name: obj/W_EX010_40.a.us #Diamond Dust PAX: PC
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/40.pax
+- name: obj/W_EX010_40_NM.a.us
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/40.pax
+- name: obj/W_EX010_40_TR.a.us
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/40.pax
+- name: obj/W_EX010_40_WI.a.us
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/40.pax
+- name: obj/W_EX010_50.a.fm #Olympia PAX: PS2
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/50.pax
+- name: obj/W_EX010_50_NM.a.fm
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/50.pax
+- name: obj/W_EX010_50_TR.a.fm
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/50.pax
+- name: obj/W_EX010_50_WI.a.fm
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/50.pax
+- name: obj/W_EX010_50.a.us #Olympia PAX: PC
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/50.pax
+- name: obj/W_EX010_50_NM.a.us
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/50.pax
+- name: obj/W_EX010_50_TR.a.us
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/50.pax
+- name: obj/W_EX010_50_WI.a.us
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/50.pax
+- name: obj/W_EX010_70.a.fm #Lady Luck PAX: PS2
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/70.pax
+- name: obj/W_EX010_70_NM.a.fm
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/70.pax
+- name: obj/W_EX010_70_TR.a.fm
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/70.pax
+- name: obj/W_EX010_70_WI.a.fm
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/70.pax
+- name: obj/W_EX010_70.a.us #Lady Luck PAX: PC
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/70.pax
+- name: obj/W_EX010_70_NM.a.us
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/70.pax
+- name: obj/W_EX010_70_TR.a.us
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/70.pax
+- name: obj/W_EX010_70_WI.a.us
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/70.pax
+- name: obj/W_EX010_80.a.fm #Jungle King PAX: PS2
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/80.pax
+- name: obj/W_EX010_80_NM.a.fm
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/80.pax
+- name: obj/W_EX010_80_TR.a.fm
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/80.pax
+- name: obj/W_EX010_80_WI.a.fm
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/80.pax
+- name: obj/W_EX010_80.a.us #Jungle King PAX: PC
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/80.pax
+- name: obj/W_EX010_80_NM.a.us
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/80.pax
+- name: obj/W_EX010_80_TR.a.us
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/80.pax
+- name: obj/W_EX010_80_WI.a.us
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/80.pax
+- name: obj/W_EX010_90.a.fm #Spellbinder PAX: PS2
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/90.pax
+- name: obj/W_EX010_90_NM.a.fm
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/90.pax
+- name: obj/W_EX010_90_TR.a.fm
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/90.pax
+- name: obj/W_EX010_90_WI.a.fm
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/90.pax
+- name: obj/W_EX010_90.a.us #Spellbinder PAX: PC
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/90.pax
+- name: obj/W_EX010_90_NM.a.us
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/90.pax
+- name: obj/W_EX010_90_TR.a.us
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/90.pax
+- name: obj/W_EX010_90_WI.a.us
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/90.pax
+- name: obj/W_EX010_A0.a.fm #FairyHarp PAX: PS2
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/A0.pax
+- name: obj/W_EX010_A0_NM.a.fm
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/A0.pax
+- name: obj/W_EX010_A0_TR.a.fm
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/A0.pax
+- name: obj/W_EX010_A0_WI.a.fm
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/A0.pax
+- name: obj/W_EX010_A0.a.us #FairyHarp PAX: PC
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/A0.pax
+- name: obj/W_EX010_A0_NM.a.us
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/A0.pax
+- name: obj/W_EX010_A0_TR.a.us
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/A0.pax
+- name: obj/W_EX010_A0_WI.a.us
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/A0.pax
+- name: obj/W_EX010_B0.a.fm #Divine Rose PAX: PS2
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/B0.pax
+- name: obj/W_EX010_B0_NM.a.fm
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/B0.pax
+- name: obj/W_EX010_B0_TR.a.fm
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/B0.pax
+- name: obj/W_EX010_B0_WI.a.fm
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/B0.pax
+- name: obj/W_EX010_B0.a.us #DivineRose PAX: PC
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/B0.pax
+- name: obj/W_EX010_B0_NM.a.us
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/B0.pax
+- name: obj/W_EX010_B0_TR.a.us
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/B0.pax
+- name: obj/W_EX010_B0_WI.a.us
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/B0.pax
+- name: obj/W_EX010_C0.a.fm #Metal Chocobo PAX: PS2
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/C0.pax
+- name: obj/W_EX010_C0_NM.a.fm
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/C0.pax
+- name: obj/W_EX010_C0_TR.a.fm
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/C0.pax
+- name: obj/W_EX010_C0_WI.a.fm
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/C0.pax
+- name: obj/W_EX010_C0.a.us #Metal Chocobo PAX: PC
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/C0.pax
+- name: obj/W_EX010_C0_NM.a.us
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/C0.pax
+- name: obj/W_EX010_C0_TR.a.us
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/C0.pax
+- name: obj/W_EX010_C0_WI.a.us
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/C0.pax
+- name: obj/W_EX010_D0.a.fm #Three Wishes PAX: PS2
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/D0.pax
+- name: obj/W_EX010_D0_NM.a.fm
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/D0.pax
+- name: obj/W_EX010_D0_TR.a.fm
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/D0.pax
+- name: obj/W_EX010_D0_WI.a.fm
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/D0.pax
+- name: obj/W_EX010_D0.a.us #Three Wishes PAX: PC
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/D0.pax
+- name: obj/W_EX010_D0_NM.a.us
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/D0.pax
+- name: obj/W_EX010_D0_TR.a.us
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/D0.pax
+- name: obj/W_EX010_D0_WI.a.us
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/D0.pax
+- name: obj/W_EX010_E0.a.fm #Pumpkin Head PAX: PS2
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/E0.pax
+- name: obj/W_EX010_E0_NM.a.fm
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/E0.pax
+- name: obj/W_EX010_E0_TR.a.fm
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/E0.pax
+- name: obj/W_EX010_E0_WI.a.fm
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/E0.pax
+- name: obj/W_EX010_E0.a.us #Pumpkin Head PAX: PC
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/E0.pax
+- name: obj/W_EX010_E0_NM.a.us
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/E0.pax
+- name: obj/W_EX010_E0_TR.a.us
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/E0.pax
+- name: obj/W_EX010_E0_WI.a.us
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/E0.pax
+- name: obj/W_EX010_F0.a.fm #Lionheart PAX: PS2
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/F0.pax
+- name: obj/W_EX010_F0_NM.a.fm
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/F0.pax
+- name: obj/W_EX010_F0_TR.a.fm
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/F0.pax
+- name: obj/W_EX010_F0_WI.a.fm
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/F0.pax
+- name: obj/W_EX010_F0.a.us #Lionheart PAX: PC
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/F0.pax
+- name: obj/W_EX010_F0_NM.a.us
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/F0.pax
+- name: obj/W_EX010_F0_TR.a.us
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/F0.pax
+- name: obj/W_EX010_F0_WI.a.us
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/F0.pax
+- name: obj/W_EX010_G0.a.fm #Wishing Star PAX: PS2
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/G0.pax
+- name: obj/W_EX010_G0_NM.a.fm
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/G0.pax
+- name: obj/W_EX010_G0_TR.a.fm
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/G0.pax
+- name: obj/W_EX010_G0_WI.a.fm
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/G0.pax
+- name: obj/W_EX010_G0.a.us #Wishing Star PAX: PC
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/G0.pax
+- name: obj/W_EX010_G0_NM.a.us
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/G0.pax
+- name: obj/W_EX010_G0_TR.a.us
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/G0.pax
+- name: obj/W_EX010_G0_WI.a.us
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/G0.pax
+- name: obj/W_EX010_H0.a.fm #Crabclaw PAX: PS2
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/H0.pax
+- name: obj/W_EX010_H0_NM.a.fm
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/H0.pax
+- name: obj/W_EX010_H0_TR.a.fm
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/H0.pax
+- name: obj/W_EX010_H0_WI.a.fm
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/H0.pax
+- name: obj/W_EX010_H0.a.us #Crabclaw PAX: PC
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/H0.pax
+- name: obj/W_EX010_H0_NM.a.us
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/H0.pax
+- name: obj/W_EX010_H0_TR.a.us
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/H0.pax
+- name: obj/W_EX010_H0_WI.a.us
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/H0.pax
+- name: obj/W_EX010_M0.a.fm #One Winged Angel PAX: PS2
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/M0.pax
+- name: obj/W_EX010_M0_NM.a.fm
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/M0.pax
+- name: obj/W_EX010_M0_TR.a.fm
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/M0.pax
+- name: obj/W_EX010_M0_WI.a.fm
+  platform: ps2
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/M0.pax
+- name: obj/W_EX010_M0.a.us #One Winged Angel PAX: PC
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/M0.pax
+- name: obj/W_EX010_M0_NM.a.us
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/M0.pax
+- name: obj/W_EX010_M0_TR.a.us
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/M0.pax
+- name: obj/W_EX010_M0_WI.a.us
+  platform: pc
+  method: binarc
+  source:
+  - name: w_ex
+    type: pax
+    method: copy
+    source:
+    - name: pax/M0.pax
+- name: remastered\obj\W_EX010_40.a.us\se\obj\se508  #Diamond Dust: Pax
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_40.a.us\se\obj\se508
+- name: remastered\obj\W_EX010_40.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_40.a.us\-0.dds
+- name: remastered\obj\W_EX010_40.a.us\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_40.a.us\-1.dds
+- name: remastered\obj\W_EX010_40.a.us\-2.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_40.a.us\-2.dds
+- name: remastered\obj\W_EX010_40_NM.a.us\se\obj\se508  #Diamond Dust: Pax
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_40.a.us\se\obj\se508
+- name: remastered\obj\W_EX010_40_NM.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_40.a.us\-0.dds
+- name: remastered\obj\W_EX010_40_NM.a.us\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_40.a.us\-1.dds
+- name: remastered\obj\W_EX010_40_NM.a.us\-2.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_40.a.us\-2.dds
+- name: remastered\obj\W_EX010_40_TR.a.us\se\obj\se508  #Diamond Dust: Pax
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_40.a.us\se\obj\se508
+- name: remastered\obj\W_EX010_40_TR.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_40.a.us\-0.dds
+- name: remastered\obj\W_EX010_40_TR.a.us\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_40.a.us\-1.dds
+- name: remastered\obj\W_EX010_40_TR.a.us\-2.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_40.a.us\-2.dds
+- name: remastered\obj\W_EX010_40_WI.a.us\se\obj\se508  #Diamond Dust: Pax
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_40.a.us\se\obj\se508
+- name: remastered\obj\W_EX010_40_WI.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_40.a.us\-0.dds
+- name: remastered\obj\W_EX010_40_WI.a.us\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_40.a.us\-1.dds
+- name: remastered\obj\W_EX010_40_WI.a.us\-2.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_40.a.us\-2.dds
+- name: remastered\obj\W_EX010_40.mdlx\-0.dds   #Diamond Dust: Model
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_40.mdlx\-0.dds
+- name: remastered\obj\W_EX010_40.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_40.mdlx\-1.dds
+- name: remastered\obj\W_EX010_40_NM.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_40_NM.mdlx\-0.dds
+- name: remastered\obj\W_EX010_40_NM.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_40_NM.mdlx\-1.dds
+- name: remastered\obj\W_EX010_40_TR.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_40_TR.mdlx\-0.dds
+- name: remastered\obj\W_EX010_40_TR.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_40_TR.mdlx\-1.dds
+- name: remastered\obj\W_EX010_40_WI.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_40_WI.mdlx\-0.dds
+- name: remastered\obj\W_EX010_40_WI.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_40_WI.mdlx\-1.dds
+#Olympia Pax: Regular/Halloween/Tron/Timeless River
+- name: remastered\obj\W_EX010_50.a.us\se\obj\se509
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_50.a.us\se\obj\se509
+- name: remastered\obj\W_EX010_50.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_50.a.us\-0.dds
+- name: remastered\obj\W_EX010_50.a.us\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_50.a.us\-1.dds
+- name: remastered\obj\W_EX010_50_NM.a.us\se\obj\se509
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_50.a.us\se\obj\se509
+- name: remastered\obj\W_EX010_50_NM.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_50.a.us\-0.dds
+- name: remastered\obj\W_EX010_50_NM.a.us\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_50.a.us\-1.dds
+- name: remastered\obj\W_EX010_50_TR.a.us\se\obj\se509
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_50.a.us\se\obj\se509
+- name: remastered\obj\W_EX010_50_TR.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_50.a.us\-0.dds
+- name: remastered\obj\W_EX010_50_TR.a.us\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_50.a.us\-1.dds
+- name: remastered\obj\W_EX010_50_WI.a.us\se\obj\se509
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_50.a.us\se\obj\se509
+- name: remastered\obj\W_EX010_50_WI.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_50.a.us\-0.dds
+- name: remastered\obj\W_EX010_50_WI.a.us\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_50.a.us\-1.dds
+#Olympia Model: Regular/Halloween/Tron/Timeless
+- name: remastered\obj\W_EX010_50.mdlx\-0.dds
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_50.mdlx\-0.dds
+- name: remastered\obj\W_EX010_50.mdlx\-1.dds
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_50.mdlx\-1.dds
+- name: remastered\obj\W_EX010_50_NM.mdlx\-0.dds
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_50_NM.mdlx\-0.dds
+- name: remastered\obj\W_EX010_50_NM.mdlx\-1.dds
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_50_NM.mdlx\-1.dds
+- name: remastered\obj\W_EX010_50_TR.mdlx\-0.dds
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_50_TR.mdlx\-0.dds
+- name: remastered\obj\W_EX010_50_TR.mdlx\-1.dds
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_50_TR.mdlx\-1.dds
+- name: remastered\obj\W_EX010_50_WI.mdlx\-0.dds
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_50_WI.mdlx\-0.dds
+- name: remastered\obj\W_EX010_50_WI.mdlx\-1.dds
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_50_WI.mdlx\-1.dds
+#Lady Luck: Pax (Regular/Halloween/Tron/Timeless)
+- name: remastered\obj\W_EX010_70.a.us\se\obj\se511
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_70.a.us\se\obj\se511
+- name: remastered\obj\W_EX010_70.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_70.a.us\-0.dds
+- name: remastered\obj\W_EX010_70.a.us\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_70.a.us\-1.dds
+- name: remastered\obj\W_EX010_70_NM.a.us\se\obj\se511
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_70.a.us\se\obj\se511
+- name: remastered\obj\W_EX010_70_NM.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_70.a.us\-0.dds
+- name: remastered\obj\W_EX010_70_NM.a.us\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_70.a.us\-1.dds
+- name: remastered\obj\W_EX010_70_TR.a.us\se\obj\se511
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_70.a.us\se\obj\se511
+- name: remastered\obj\W_EX010_70_TR.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_70.a.us\-0.dds
+- name: remastered\obj\W_EX010_70_TR.a.us\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_70.a.us\-1.dds
+- name: remastered\obj\W_EX010_70_WI.a.us\se\obj\se511
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_70.a.us\se\obj\se511
+- name: remastered\obj\W_EX010_70_WI.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_70.a.us\-0.dds
+- name: remastered\obj\W_EX010_70_WI.a.us\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_70.a.us\-1.dds
+#Lady Luck: Models (Regular/Halloween/Tron/Timeless)
+- name: remastered\obj\W_EX010_70.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_70.mdlx\-0.dds
+- name: remastered\obj\W_EX010_70.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_70.mdlx\-1.dds
+- name: remastered\obj\W_EX010_70_NM.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_70_NM.mdlx\-0.dds
+- name: remastered\obj\W_EX010_70_NM.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_70_NM.mdlx\-1.dds
+- name: remastered\obj\W_EX010_70_TR.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_70_TR.mdlx\-0.dds
+- name: remastered\obj\W_EX010_70_TR.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_70_TR.mdlx\-1.dds
+- name: remastered\obj\W_EX010_70_WI.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_70_WI.mdlx\-0.dds
+- name: remastered\obj\W_EX010_70_WI.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_70_WI.mdlx\-1.dds
+#Jungle King: Pax (Regular/Halloween/Tron/Timeless)
+- name: remastered\obj\W_EX010_80.a.us\se\obj\se512
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_80.a.us\se\obj\se512
+- name: remastered\obj\W_EX010_80.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_80.a.us\-0.dds
+- name: remastered\obj\W_EX010_80_NM.a.us\se\obj\se512
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_80.a.us\se\obj\se512
+- name: remastered\obj\W_EX010_80_NM.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_80.a.us\-0.dds
+- name: remastered\obj\W_EX010_80_TR.a.us\se\obj\se512
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_80.a.us\se\obj\se512
+- name: remastered\obj\W_EX010_80_TR.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_80.a.us\-0.dds
+- name: remastered\obj\W_EX010_80_WI.a.us\se\obj\se512
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_80.a.us\se\obj\se512
+- name: remastered\obj\W_EX010_80_WI.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_80.a.us\-0.dds
+#Jungle King: Models (Regular/Halloween/Tron/Timeless)
+- name: remastered\obj\W_EX010_80.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_80.mdlx\-0.dds
+- name: remastered\obj\W_EX010_80.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_80.mdlx\-1.dds
+- name: remastered\obj\W_EX010_80_NM.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_80_NM.mdlx\-0.dds
+- name: remastered\obj\W_EX010_80_NM.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_80_NM.mdlx\-1.dds
+- name: remastered\obj\W_EX010_80_TR.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_80_TR.mdlx\-0.dds
+- name: remastered\obj\W_EX010_80_TR.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_80_TR.mdlx\-1.dds
+- name: remastered\obj\W_EX010_80_WI.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_80_WI.mdlx\-0.dds
+- name: remastered\obj\W_EX010_80_WI.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_80_WI.mdlx\-1.dds
+#Spellbinder: Pax (Regular/Halloween/Tron/Timeless)
+- name: remastered\obj\W_EX010_90.a.us\se\obj\se513
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_90.a.us\se\obj\se513
+- name: remastered\obj\W_EX010_90.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_90.a.us\-0.dds
+- name: remastered\obj\W_EX010_90.a.us\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_90.a.us\-1.dds
+- name: remastered\obj\W_EX010_90_NM.a.us\se\obj\se513
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_90.a.us\se\obj\se513
+- name: remastered\obj\W_EX010_90_NM.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_90.a.us\-0.dds
+- name: remastered\obj\W_EX010_90_NM.a.us\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_90.a.us\-1.dds
+- name: remastered\obj\W_EX010_90_TR.a.us\se\obj\se513
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_90.a.us\se\obj\se513
+- name: remastered\obj\W_EX010_90_TR.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_90.a.us\-0.dds
+- name: remastered\obj\W_EX010_90_TR.a.us\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_90.a.us\-1.dds
+- name: remastered\obj\W_EX010_90_WI.a.us\se\obj\se513
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_90.a.us\se\obj\se513
+- name: remastered\obj\W_EX010_90_WI.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_90.a.us\-0.dds
+- name: remastered\obj\W_EX010_90_WI.a.us\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_90.a.us\-1.dds
+  #Spellbinder: Models
+- name: remastered\obj\W_EX010_90.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_90.mdlx\-0.dds
+- name: remastered\obj\W_EX010_90.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_90.mdlx\-1.dds
+- name: remastered\obj\W_EX010_90_NM.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_90_NM.mdlx\-0.dds
+- name: remastered\obj\W_EX010_90_NM.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_90_NM.mdlx\-1.dds
+- name: remastered\obj\W_EX010_90_TR.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_90_TR.mdlx\-0.dds
+- name: remastered\obj\W_EX010_90_TR.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_90_TR.mdlx\-1.dds
+- name: remastered\obj\W_EX010_90_WI.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_90_WI.mdlx\-0.dds
+- name: remastered\obj\W_EX010_90_WI.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_90_WI.mdlx\-1.dds
+#FairyHarp: Pax (Regular/Halloween/Tron/Timeless)
+- name: remastered\obj\W_EX010_A0.a.us\se\obj\se514
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_A0.a.us\se\obj\se514
+- name: remastered\obj\W_EX010_A0.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_A0.a.us\-0.dds
+- name: remastered\obj\W_EX010_A0_NM.a.us\se\obj\se514
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_A0.a.us\se\obj\se514
+- name: remastered\obj\W_EX010_A0_NM.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_A0.a.us\-0.dds
+- name: remastered\obj\W_EX010_A0_TR.a.us\se\obj\se514
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_A0.a.us\se\obj\se514
+- name: remastered\obj\W_EX010_A0_TR.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_A0.a.us\-0.dds
+- name: remastered\obj\W_EX010_A0_WI.a.us\se\obj\se514
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_A0.a.us\se\obj\se514
+- name: remastered\obj\W_EX010_A0_WI.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_A0.a.us\-0.dds
+#FairyHarp: Models
+- name: remastered\obj\W_EX010_A0.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_A0.mdlx\-0.dds
+- name: remastered\obj\W_EX010_A0.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_A0.mdlx\-1.dds
+- name: remastered\obj\W_EX010_A0_NM.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_A0_NM.mdlx\-0.dds
+- name: remastered\obj\W_EX010_A0_NM.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_A0_NM.mdlx\-1.dds
+- name: remastered\obj\W_EX010_A0_TR.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_A0_TR.mdlx\-0.dds
+- name: remastered\obj\W_EX010_A0_TR.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_A0_TR.mdlx\-1.dds
+- name: remastered\obj\W_EX010_A0_WI.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_A0_WI.mdlx\-0.dds
+- name: remastered\obj\W_EX010_A0_WI.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_A0_WI.mdlx\-1.dds
+#DivineRose: Pax (Regular/Halloween/Tron/Timeless)
+- name: remastered\obj\W_EX010_B0.a.us\se\obj\se515
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_B0.a.us\se\obj\se515
+- name: remastered\obj\W_EX010_B0.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_B0.a.us\-0.dds
+- name: remastered\obj\W_EX010_B0_NM.a.us\se\obj\se515
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_B0.a.us\se\obj\se515
+- name: remastered\obj\W_EX010_B0_NM.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_B0.a.us\-0.dds
+- name: remastered\obj\W_EX010_B0_TR.a.us\se\obj\se515
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_B0.a.us\se\obj\se515
+- name: remastered\obj\W_EX010_B0_TR.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_B0.a.us\-0.dds
+- name: remastered\obj\W_EX010_B0_WI.a.us\se\obj\se515
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_B0.a.us\se\obj\se515
+- name: remastered\obj\W_EX010_B0_WI.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_B0.a.us\-0.dds
+#DivineRose: Models
+- name: remastered\obj\W_EX010_B0.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_B0.mdlx\-0.dds
+- name: remastered\obj\W_EX010_B0.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_B0.mdlx\-1.dds
+- name: remastered\obj\W_EX010_B0_NM.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_B0_NM.mdlx\-0.dds
+- name: remastered\obj\W_EX010_B0_NM.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_B0_NM.mdlx\-1.dds
+- name: remastered\obj\W_EX010_B0_TR.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_B0_TR.mdlx\-0.dds
+- name: remastered\obj\W_EX010_B0_TR.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_B0_TR.mdlx\-1.dds
+- name: remastered\obj\W_EX010_B0_WI.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_B0_WI.mdlx\-0.dds
+- name: remastered\obj\W_EX010_B0_WI.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_B0_WI.mdlx\-1.dds
+#Metal Chocobo: Pax (Regular/Halloween/Tron/Timeless)
+- name: remastered\obj\W_EX010_C0.a.us\se\obj\se516
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_C0.a.us\se\obj\se516
+- name: remastered\obj\W_EX010_C0.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_C0.a.us\-0.dds
+- name: remastered\obj\W_EX010_C0.a.us\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_C0.a.us\-1.dds
+- name: remastered\obj\W_EX010_C0_NM.a.us\se\obj\se516
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_C0.a.us\se\obj\se516
+- name: remastered\obj\W_EX010_C0_NM.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_C0.a.us\-0.dds
+- name: remastered\obj\W_EX010_C0_NM.a.us\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_C0.a.us\-1.dds
+- name: remastered\obj\W_EX010_C0_TR.a.us\se\obj\se516
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_C0.a.us\se\obj\se516
+- name: remastered\obj\W_EX010_C0_TR.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_C0.a.us\-0.dds
+- name: remastered\obj\W_EX010_C0_TR.a.us\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_C0.a.us\-1.dds
+- name: remastered\obj\W_EX010_C0_WI.a.us\se\obj\se516
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_C0.a.us\se\obj\se516
+- name: remastered\obj\W_EX010_C0_WI.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_C0.a.us\-0.dds
+- name: remastered\obj\W_EX010_C0_WI.a.us\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_C0.a.us\-1.dds
+#Metal Chocobo: Models
+- name: remastered\obj\W_EX010_C0.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_C0.mdlx\-0.dds
+- name: remastered\obj\W_EX010_C0.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_C0.mdlx\-1.dds
+- name: remastered\obj\W_EX010_C0_NM.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_C0_NM.mdlx\-0.dds
+- name: remastered\obj\W_EX010_C0_NM.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_C0_NM.mdlx\-1.dds
+- name: remastered\obj\W_EX010_C0_TR.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_C0_TR.mdlx\-0.dds
+- name: remastered\obj\W_EX010_C0_TR.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_C0_TR.mdlx\-1.dds
+- name: remastered\obj\W_EX010_C0_WI.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_C0_WI.mdlx\-0.dds
+- name: remastered\obj\W_EX010_C0_WI.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_C0_WI.mdlx\-1.dds
+#Three Wishes: Pax (Regular/Halloween/Tron/Timeless)
+- name: remastered\obj\W_EX010_D0.a.us\se\obj\se517
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_D0.a.us\se\obj\se517
+- name: remastered\obj\W_EX010_D0.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_D0.a.us\-0.dds
+- name: remastered\obj\W_EX010_D0_NM.a.us\se\obj\se517
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_D0.a.us\se\obj\se517
+- name: remastered\obj\W_EX010_D0_NM.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_D0.a.us\-0.dds
+- name: remastered\obj\W_EX010_D0_TR.a.us\se\obj\se517
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_D0.a.us\se\obj\se517
+- name: remastered\obj\W_EX010_D0_TR.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_D0.a.us\-0.dds
+- name: remastered\obj\W_EX010_D0_WI.a.us\se\obj\se517
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_D0.a.us\se\obj\se517
+- name: remastered\obj\W_EX010_D0_WI.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_D0.a.us\-0.dds
+#Three Wishes: Models
+- name: remastered\obj\W_EX010_D0.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_D0.mdlx\-0.dds
+- name: remastered\obj\W_EX010_D0.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_D0.mdlx\-1.dds
+- name: remastered\obj\W_EX010_D0_NM.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_D0_NM.mdlx\-0.dds
+- name: remastered\obj\W_EX010_D0_NM.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_D0_NM.mdlx\-1.dds
+- name: remastered\obj\W_EX010_D0_TR.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_D0_TR.mdlx\-0.dds
+- name: remastered\obj\W_EX010_D0_TR.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_D0_TR.mdlx\-1.dds
+- name: remastered\obj\W_EX010_D0_WI.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_D0_WI.mdlx\-0.dds
+- name: remastered\obj\W_EX010_D0_WI.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_D0_WI.mdlx\-1.dds
+#PumpkinHead: Pax (Regular/Halloween/Tron/Timeless)
+- name: remastered\obj\W_EX010_E0.a.us\se\obj\se518
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_E0.a.us\se\obj\se518
+- name: remastered\obj\W_EX010_E0.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_E0.a.us\-0.dds
+- name: remastered\obj\W_EX010_E0_NM.a.us\se\obj\se518
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_E0.a.us\se\obj\se518
+- name: remastered\obj\W_EX010_E0_NM.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_E0.a.us\-0.dds
+- name: remastered\obj\W_EX010_E0_TR.a.us\se\obj\se518
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_E0.a.us\se\obj\se518
+- name: remastered\obj\W_EX010_E0_TR.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_E0.a.us\-0.dds
+- name: remastered\obj\W_EX010_E0_WI.a.us\se\obj\se518
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_E0.a.us\se\obj\se518
+- name: remastered\obj\W_EX010_E0_WI.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_E0.a.us\-0.dds
+#PumpkinHead: Models
+- name: remastered\obj\W_EX010_E0.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_E0.mdlx\-0.dds
+- name: remastered\obj\W_EX010_E0.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_E0.mdlx\-1.dds
+- name: remastered\obj\W_EX010_E0_NM.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_E0_NM.mdlx\-0.dds
+- name: remastered\obj\W_EX010_E0_NM.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_E0_NM.mdlx\-1.dds
+- name: remastered\obj\W_EX010_E0_TR.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_E0_TR.mdlx\-0.dds
+- name: remastered\obj\W_EX010_E0_TR.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_E0_TR.mdlx\-1.dds
+- name: remastered\obj\W_EX010_E0_WI.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_E0_WI.mdlx\-0.dds
+- name: remastered\obj\W_EX010_E0_WI.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_E0_WI.mdlx\-1.dds
+#Lionheart: Pax (Regular/Halloween/Tron/Timeless)
+- name: remastered\obj\W_EX010_F0.a.us\se\obj\se519
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_F0.a.us\se\obj\se519
+- name: remastered\obj\W_EX010_F0.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_F0.a.us\-0.dds
+- name: remastered\obj\W_EX010_F0.a.us\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_F0.a.us\-1.dds
+- name: remastered\obj\W_EX010_F0_NM.a.us\se\obj\se519
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_F0.a.us\se\obj\se519
+- name: remastered\obj\W_EX010_F0_NM.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_F0.a.us\-0.dds
+- name: remastered\obj\W_EX010_F0_NM.a.us\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_F0.a.us\-1.dds
+- name: remastered\obj\W_EX010_F0_TR.a.us\se\obj\se519
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_F0.a.us\se\obj\se519
+- name: remastered\obj\W_EX010_F0_TR.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_F0.a.us\-0.dds
+- name: remastered\obj\W_EX010_F0_TR.a.us\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_F0.a.us\-1.dds
+- name: remastered\obj\W_EX010_F0_WI.a.us\se\obj\se519
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_F0.a.us\se\obj\se519
+- name: remastered\obj\W_EX010_F0_WI.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_F0.a.us\-0.dds
+- name: remastered\obj\W_EX010_F0_WI.a.us\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_F0.a.us\-1.dds
+#Lionheart: Models
+- name: remastered\obj\W_EX010_F0.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_F0.mdlx\-0.dds
+- name: remastered\obj\W_EX010_F0.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_F0.mdlx\-1.dds
+- name: remastered\obj\W_EX010_F0_NM.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_F0_NM.mdlx\-0.dds
+- name: remastered\obj\W_EX010_F0_NM.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_F0_NM.mdlx\-1.dds
+- name: remastered\obj\W_EX010_F0_TR.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_F0_TR.mdlx\-0.dds
+- name: remastered\obj\W_EX010_F0_TR.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_F0_TR.mdlx\-1.dds
+- name: remastered\obj\W_EX010_F0_WI.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_F0_WI.mdlx\-0.dds
+- name: remastered\obj\W_EX010_F0_WI.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_F0_WI.mdlx\-1.dds
+#Wishing Star: Pax (Regular/Halloween/Tron/Timeless)
+- name: remastered\obj\W_EX010_G0.a.us\se\obj\se520
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_G0.a.us\se\obj\se520
+- name: remastered\obj\W_EX010_G0.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_G0.a.us\-0.dds
+- name: remastered\obj\W_EX010_G0.a.us\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_G0.a.us\-1.dds
+- name: remastered\obj\W_EX010_G0_NM.a.us\se\obj\se520
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_G0.a.us\se\obj\se520
+- name: remastered\obj\W_EX010_G0_NM.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_G0.a.us\-0.dds
+- name: remastered\obj\W_EX010_G0_NM.a.us\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_G0.a.us\-1.dds
+- name: remastered\obj\W_EX010_G0_TR.a.us\se\obj\se520
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_G0.a.us\se\obj\se520
+- name: remastered\obj\W_EX010_G0_TR.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_G0.a.us\-0.dds
+- name: remastered\obj\W_EX010_G0_TR.a.us\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_G0.a.us\-1.dds
+- name: remastered\obj\W_EX010_G0_WI.a.us\se\obj\se520
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_G0.a.us\se\obj\se520
+- name: remastered\obj\W_EX010_G0_WI.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_G0.a.us\-0.dds
+- name: remastered\obj\W_EX010_G0_WI.a.us\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_G0.a.us\-1.dds
+#Wishing Star: Models
+- name: remastered\obj\W_EX010_G0.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_G0.mdlx\-0.dds
+- name: remastered\obj\W_EX010_G0.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_G0.mdlx\-1.dds
+- name: remastered\obj\W_EX010_G0_NM.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_G0_NM.mdlx\-0.dds
+- name: remastered\obj\W_EX010_G0_NM.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_G0_NM.mdlx\-1.dds
+- name: remastered\obj\W_EX010_G0_TR.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_G0_TR.mdlx\-0.dds
+- name: remastered\obj\W_EX010_G0_TR.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_G0_TR.mdlx\-1.dds
+- name: remastered\obj\W_EX010_G0_WI.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_G0_WI.mdlx\-0.dds
+- name: remastered\obj\W_EX010_G0_WI.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_G0_WI.mdlx\-1.dds
+#Crabclaw: Pax (Regular/Halloween/Tron/Timeless)
+- name: remastered\obj\W_EX010_H0.a.us\se\obj\se521
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_H0.a.us\se\obj\se521
+- name: remastered\obj\W_EX010_H0.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_H0.a.us\-0.dds
+- name: remastered\obj\W_EX010_H0_NM.a.us\se\obj\se521
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_H0.a.us\se\obj\se521
+- name: remastered\obj\W_EX010_H0_NM.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_H0.a.us\-0.dds
+- name: remastered\obj\W_EX010_H0_TR.a.us\se\obj\se521
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_H0.a.us\se\obj\se521
+- name: remastered\obj\W_EX010_H0_TR.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_H0.a.us\-0.dds
+- name: remastered\obj\W_EX010_H0_WI.a.us\se\obj\se521
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_H0.a.us\se\obj\se521
+- name: remastered\obj\W_EX010_H0_WI.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_H0.a.us\-0.dds
+#Crabclaw: Models
+- name: remastered\obj\W_EX010_H0.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_H0.mdlx\-0.dds
+- name: remastered\obj\W_EX010_H0.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_H0.mdlx\-1.dds
+- name: remastered\obj\W_EX010_H0_NM.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_H0_NM.mdlx\-0.dds
+- name: remastered\obj\W_EX010_H0_NM.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_H0_NM.mdlx\-1.dds
+- name: remastered\obj\W_EX010_H0_TR.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_H0_TR.mdlx\-0.dds
+- name: remastered\obj\W_EX010_H0_TR.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_H0_TR.mdlx\-1.dds
+- name: remastered\obj\W_EX010_H0_WI.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_H0_WI.mdlx\-0.dds
+- name: remastered\obj\W_EX010_H0_WI.mdlx\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_H0_WI.mdlx\-1.dds
+#One-Winged Angel: PAX (Regular/Halloween/Tron/Timeless)
+- name: remastered\obj\W_EX010_M0.a.us\se\obj\se524
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_M0.a.us\se\obj\se524
+- name: remastered\obj\W_EX010_M0.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_M0.a.us\-0.dds
+- name: remastered\obj\W_EX010_M0.a.us\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_M0.a.us\-1.dds
+- name: remastered\obj\W_EX010_M0.a.us\-2.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_M0.a.us\-2.dds
+- name: remastered\obj\W_EX010_M0.a.us\-3.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_M0.a.us\-3.dds
+- name: remastered\obj\W_EX010_M0.a.us\-4.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_M0.a.us\-4.dds
+- name: remastered\obj\W_EX010_M0_NM.a.us\se\obj\se524
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_M0.a.us\se\obj\se524
+- name: remastered\obj\W_EX010_M0_NM.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_M0.a.us\-0.dds
+- name: remastered\obj\W_EX010_M0_NM.a.us\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_M0.a.us\-1.dds
+- name: remastered\obj\W_EX010_M0_NM.a.us\-2.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_M0.a.us\-2.dds
+- name: remastered\obj\W_EX010_M0_NM.a.us\-3.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_M0.a.us\-3.dds
+- name: remastered\obj\W_EX010_M0_NM.a.us\-4.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_M0.a.us\-4.dds
+- name: remastered\obj\W_EX010_M0_TR.a.us\se\obj\se524
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_M0.a.us\se\obj\se524
+- name: remastered\obj\W_EX010_M0_TR.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_M0.a.us\-0.dds
+- name: remastered\obj\W_EX010_M0_TR.a.us\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_M0.a.us\-1.dds
+- name: remastered\obj\W_EX010_M0_TR.a.us\-2.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_M0.a.us\-2.dds
+- name: remastered\obj\W_EX010_M0_TR.a.us\-3.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_M0.a.us\-3.dds
+- name: remastered\obj\W_EX010_M0_TR.a.us\-4.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_M0.a.us\-4.dds
+- name: remastered\obj\W_EX010_M0_WI.a.us\se\obj\se524
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_M0.a.us\se\obj\se524
+- name: remastered\obj\W_EX010_M0_WI.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_M0.a.us\-0.dds
+- name: remastered\obj\W_EX010_M0_WI.a.us\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_M0.a.us\-1.dds
+- name: remastered\obj\W_EX010_M0_WI.a.us\-2.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_M0.a.us\-2.dds
+- name: remastered\obj\W_EX010_M0_WI.a.us\-3.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_M0.a.us\-3.dds
+- name: remastered\obj\W_EX010_M0_WI.a.us\-4.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_M0.a.us\-4.dds
+#One-Winged Angel: Models
+- name: remastered\obj\W_EX010_M0.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_M0.mdlx\-0.dds
+- name: remastered\obj\W_EX010_M0_NM.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_M0_NM.mdlx\-0.dds
+- name: remastered\obj\W_EX010_M0_TR.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_M0_TR.mdlx\-0.dds
+- name: remastered\obj\W_EX010_M0_WI.mdlx\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered\obj\W_EX010_M0_WI.mdlx\-0.dds
