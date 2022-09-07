@@ -1,6 +1,8 @@
 # KH1Keyblades-With-Effects
-Imports every KH1 keyblade into KH2, including their same effects from KH1.
+Imports every KH1 keyblade into KH2, including their same effects from KH1. <br/>
+
 Rumbling Rose    -> Divine Rose
+
 Hero's Crest     -> Olympia
 Mysterious Abyss -> Crabclaw
 Follow the Wind  -> Lady Luck
