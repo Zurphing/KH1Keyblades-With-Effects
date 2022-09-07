@@ -15,3 +15,8 @@ Guardian Soul    -> Metal Chocobo<br/>
 Sleeping Lion    -> Lionheart<br/>
 Fenrir           -> One-Winged Angel<br/>
 Hidden Dragon    -> Diamond Dust<br/>
+
+KNOWN ISSUES (PC)<br/>
+Diamond Dust has some black parts on the ice hit-effects. <br/>
+Metal Chocobo's effects are squares. <br/>
+Spellbinder's effects effects don't work very well.
