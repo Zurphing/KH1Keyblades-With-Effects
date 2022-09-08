@@ -1,3 +1,5 @@
+title: KH1 Keyblades With Effects
+author: Zurph
 description: Imports KH1's keyblades into KH2, complete with their original effects.
 assets:
 #MODELS:
@@ -2642,3 +2644,59 @@ assets:
   method: copy
   source:
   - name: remastered\obj\W_EX010_M0_WI.mdlx\-0.dds
+- name: remastered\itempic\item-047.imd\-0.dds
+  method: copy
+  source:
+  - name: remastered\itempic\item-047.imd\-0.dds
+- name: remastered\itempic\item-048.imd\-0.dds
+  method: copy
+  source:
+  - name: remastered\itempic\item-048.imd\-0.dds
+- name: remastered\itempic\item-050.imd\-0.dds
+  method: copy
+  source:
+  - name: remastered\itempic\item-050.imd\-0.dds
+- name: remastered\itempic\item-051.imd\-0.dds
+  method: copy
+  source:
+  - name: remastered\itempic\item-051.imd\-0.dds
+- name: remastered\itempic\item-052.imd\-0.dds
+  method: copy
+  source:
+  - name: remastered\itempic\item-052.imd\-0.dds
+- name: remastered\itempic\item-053.imd\-0.dds
+  method: copy
+  source:
+  - name: remastered\itempic\item-053.imd\-0.dds
+- name: remastered\itempic\item-054.imd\-0.dds
+  method: copy
+  source:
+  - name: remastered\itempic\item-054.imd\-0.dds
+- name: remastered\itempic\item-055.imd\-0.dds
+  method: copy
+  source:
+  - name: remastered\itempic\item-055.imd\-0.dds
+- name: remastered\itempic\item-056.imd\-0.dds
+  method: copy
+  source:
+  - name: remastered\itempic\item-056.imd\-0.dds
+- name: remastered\itempic\item-057.imd\-0.dds
+  method: copy
+  source:
+  - name: remastered\itempic\item-057.imd\-0.dds
+- name: remastered\itempic\item-058.imd\-0.dds
+  method: copy
+  source:
+  - name: remastered\itempic\item-058.imd\-0.dds
+- name: remastered\itempic\item-059.imd\-0.dds
+  method: copy
+  source:
+  - name: remastered\itempic\item-059.imd\-0.dds
+- name: remastered\itempic\item-060.imd\-0.dds
+  method: copy
+  source:
+  - name: remastered\itempic\item-060.imd\-0.dds
+- name: remastered\itempic\item-063.imd\-0.dds
+  method: copy
+  source:
+  - name: remastered\itempic\item-063.imd\-0.dds
