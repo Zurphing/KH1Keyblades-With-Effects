@@ -2644,59 +2644,135 @@ assets:
   method: copy
   source:
   - name: remastered\obj\W_EX010_M0_WI.mdlx\-0.dds
+#PC Itempic
 - name: remastered\itempic\item-047.imd\-0.dds
+  method: copy
+  source:
+- name: remastered\itempic\item-047.imd\-0.dds
+  platform: pc
   method: copy
   source:
   - name: remastered\itempic\item-047.imd\-0.dds
 - name: remastered\itempic\item-048.imd\-0.dds
+  platform: pc
   method: copy
   source:
   - name: remastered\itempic\item-048.imd\-0.dds
 - name: remastered\itempic\item-050.imd\-0.dds
+  platform: pc
   method: copy
   source:
   - name: remastered\itempic\item-050.imd\-0.dds
 - name: remastered\itempic\item-051.imd\-0.dds
+  platform: pc
   method: copy
   source:
   - name: remastered\itempic\item-051.imd\-0.dds
 - name: remastered\itempic\item-052.imd\-0.dds
+  platform: pc
   method: copy
   source:
   - name: remastered\itempic\item-052.imd\-0.dds
 - name: remastered\itempic\item-053.imd\-0.dds
+  platform: pc
   method: copy
   source:
   - name: remastered\itempic\item-053.imd\-0.dds
 - name: remastered\itempic\item-054.imd\-0.dds
+  platform: pc
   method: copy
   source:
   - name: remastered\itempic\item-054.imd\-0.dds
 - name: remastered\itempic\item-055.imd\-0.dds
+  platform: pc
   method: copy
   source:
   - name: remastered\itempic\item-055.imd\-0.dds
 - name: remastered\itempic\item-056.imd\-0.dds
+  platform: pc
   method: copy
   source:
   - name: remastered\itempic\item-056.imd\-0.dds
 - name: remastered\itempic\item-057.imd\-0.dds
+  platform: pc
   method: copy
   source:
   - name: remastered\itempic\item-057.imd\-0.dds
 - name: remastered\itempic\item-058.imd\-0.dds
+  platform: pc
   method: copy
   source:
   - name: remastered\itempic\item-058.imd\-0.dds
 - name: remastered\itempic\item-059.imd\-0.dds
+  platform: pc
   method: copy
   source:
   - name: remastered\itempic\item-059.imd\-0.dds
 - name: remastered\itempic\item-060.imd\-0.dds
+  platform: pc
   method: copy
   source:
   - name: remastered\itempic\item-060.imd\-0.dds
 - name: remastered\itempic\item-063.imd\-0.dds
+  platform: pc
   method: copy
   source:
   - name: remastered\itempic\item-063.imd\-0.dds
+#PS2 Itempic
+- name: itempic\item-047.imd
+  method: copy
+  source:
+  - name: itempic\item-047.imd
+- name: itempic\item-048.imd
+  method: copy
+  source:
+  - name: itempic\item-048.imd
+- name: itempic\item-050.imd
+  method: copy
+  source:
+  - name: itempic\item-050.imd
+- name: itempic\item-051.imd
+  method: copy
+  source:
+  - name: itempic\item-051.imd
+- name: itempic\item-052.imd
+  method: copy
+  source:
+  - name: itempic\item-052.imd
+- name: itempic\item-053.imd
+  method: copy
+  source:
+  - name: itempic\item-053.imd
+- name: itempic\item-054.imd
+  method: copy
+  source:
+  - name: itempic\item-054.imd
+- name: itempic\item-055.imd
+  method: copy
+  source:
+  - name: itempic\item-055.imd
+- name: itempic\item-056.imd
+  method: copy
+  source:
+  - name: itempic\item-056.imd
+- name: itempic\item-057.imd
+  method: copy
+  source:
+  - name: itempic\item-057.imd
+- name: itempic\item-058.imd
+  method: copy
+  source:
+  - name: itempic\item-058.imd
+- name: itempic\item-059.imd
+  method: copy
+  source:
+  - name: itempic\item-059.imd
+- name: itempic\item-060.imd
+  method: copy
+  source:
+  - name: itempic\item-060.imd
+- name: itempic\item-063.imd
+  method: copy
+  source:
+  - name: itempic\item-063.imd
+
