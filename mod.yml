@@ -2654,9 +2654,6 @@ assets:
   - name: remastered\obj\W_EX010_M0_WI.mdlx\-0.dds
 #PC Itempic
 - name: remastered\itempic\item-047.imd\-0.dds
-  method: copy
-  source:
-- name: remastered\itempic\item-047.imd\-0.dds
   platform: pc
   method: copy
   source:
@@ -2783,4 +2780,3 @@ assets:
   method: copy
   source:
   - name: itempic\item-063.imd
-
