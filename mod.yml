@@ -1429,34 +1429,42 @@ assets:
   - name: remastered\obj\W_EX010_50.a.us\-1.dds
 #Olympia Model: Regular/Halloween/Tron/Timeless
 - name: remastered\obj\W_EX010_50.mdlx\-0.dds
+  platform: pc
   method: copy
   source:
   - name: remastered\obj\W_EX010_50.mdlx\-0.dds
 - name: remastered\obj\W_EX010_50.mdlx\-1.dds
+  platform: pc
   method: copy
   source:
   - name: remastered\obj\W_EX010_50.mdlx\-1.dds
 - name: remastered\obj\W_EX010_50_NM.mdlx\-0.dds
+  platform: pc
   method: copy
   source:
   - name: remastered\obj\W_EX010_50_NM.mdlx\-0.dds
 - name: remastered\obj\W_EX010_50_NM.mdlx\-1.dds
+  platform: pc
   method: copy
   source:
   - name: remastered\obj\W_EX010_50_NM.mdlx\-1.dds
 - name: remastered\obj\W_EX010_50_TR.mdlx\-0.dds
+  platform: pc
   method: copy
   source:
   - name: remastered\obj\W_EX010_50_TR.mdlx\-0.dds
 - name: remastered\obj\W_EX010_50_TR.mdlx\-1.dds
+  platform: pc
   method: copy
   source:
   - name: remastered\obj\W_EX010_50_TR.mdlx\-1.dds
 - name: remastered\obj\W_EX010_50_WI.mdlx\-0.dds
+  platform: pc
   method: copy
   source:
   - name: remastered\obj\W_EX010_50_WI.mdlx\-0.dds
 - name: remastered\obj\W_EX010_50_WI.mdlx\-1.dds
+  platform: pc
   method: copy
   source:
   - name: remastered\obj\W_EX010_50_WI.mdlx\-1.dds
