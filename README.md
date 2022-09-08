@@ -19,4 +19,4 @@ Hidden Dragon    -> Diamond Dust<br/>
 KNOWN ISSUES (PC)<br/>
 Diamond Dust has some black parts on the ice hit-effects. <br/>
 Metal Chocobo's effects are squares. <br/>
-Spellbinder's effects effects don't work very well.
+Spellbinder's trail is colored green, due to using Wishing Star's PAX file to work properly.
