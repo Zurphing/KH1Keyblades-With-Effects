@@ -559,7 +559,16 @@ assets:
     type: pax
     method: copy
     source:
-    - name: pax/90.pax
+    - name: pax/G0.pax
+# - name: obj/W_EX010_90.a.us #Spellbinder PAX: PC, produces broken effects.
+#  platform: pc
+#  method: binarc
+#  source:
+#  - name: w_ex
+#    type: pax
+#    method: copy
+#    source:
+#    - name: pax/90.pax
 - name: obj/W_EX010_90_NM.a.us
   platform: pc
   method: binarc
@@ -1639,61 +1648,101 @@ assets:
   method: copy
   source:
   - name: remastered\obj\W_EX010_90.a.us\se\obj\se513
-- name: remastered\obj\W_EX010_90.a.us\-0.dds
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\obj\W_EX010_90.a.us\-0.dds
 - name: remastered\obj\W_EX010_90.a.us\-1.dds
   platform: pc
   method: copy
   source:
+  - name: remastered\obj\W_EX010_90.a.us\-0.dds
+- name: remastered\obj\W_EX010_90.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
   - name: remastered\obj\W_EX010_90.a.us\-1.dds
+#- name: remastered\obj\W_EX010_90.a.us\-0.dds
+#  platform: pc
+#  method: copy
+#  source:
+#  - name: remastered\obj\W_EX010_90.a.us\-0.dds
+#- name: remastered\obj\W_EX010_90.a.us\-1.dds
+#  platform: pc
+#  method: copy
+#  source:
+#  - name: remastered\obj\W_EX010_90.a.us\-1.dds
 - name: remastered\obj\W_EX010_90_NM.a.us\se\obj\se513
   platform: pc
   method: copy
   source:
   - name: remastered\obj\W_EX010_90.a.us\se\obj\se513
-- name: remastered\obj\W_EX010_90_NM.a.us\-0.dds
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\obj\W_EX010_90.a.us\-0.dds
 - name: remastered\obj\W_EX010_90_NM.a.us\-1.dds
   platform: pc
   method: copy
   source:
+  - name: remastered\obj\W_EX010_90.a.us\-0.dds
+- name: remastered\obj\W_EX010_90_NM.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
   - name: remastered\obj\W_EX010_90.a.us\-1.dds
+#- name: remastered\obj\W_EX010_90_NM.a.us\-0.dds
+#  platform: pc
+#  method: copy
+#  source:
+#  - name: remastered\obj\W_EX010_90.a.us\-0.dds
+#- name: remastered\obj\W_EX010_90_NM.a.us\-1.dds
+#  platform: pc
+#  method: copy
+#  source:
+#  - name: remastered\obj\W_EX010_90.a.us\-1.dds
 - name: remastered\obj\W_EX010_90_TR.a.us\se\obj\se513
   platform: pc
   method: copy
   source:
   - name: remastered\obj\W_EX010_90.a.us\se\obj\se513
-- name: remastered\obj\W_EX010_90_TR.a.us\-0.dds
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\obj\W_EX010_90.a.us\-0.dds
 - name: remastered\obj\W_EX010_90_TR.a.us\-1.dds
   platform: pc
   method: copy
   source:
+  - name: remastered\obj\W_EX010_90.a.us\-0.dds
+- name: remastered\obj\W_EX010_90_TR.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
   - name: remastered\obj\W_EX010_90.a.us\-1.dds
+#- name: remastered\obj\W_EX010_90_TR.a.us\-0.dds
+#  platform: pc
+#  method: copy
+#  source:
+#  - name: remastered\obj\W_EX010_90.a.us\-0.dds
+#- name: remastered\obj\W_EX010_90_TR.a.us\-1.dds
+#  platform: pc
+#  method: copy
+#  source:
+#  - name: remastered\obj\W_EX010_90.a.us\-1.dds
 - name: remastered\obj\W_EX010_90_WI.a.us\se\obj\se513
   platform: pc
   method: copy
   source:
   - name: remastered\obj\W_EX010_90.a.us\se\obj\se513
-- name: remastered\obj\W_EX010_90_WI.a.us\-0.dds
-  platform: pc
-  method: copy
-  source:
-  - name: remastered\obj\W_EX010_90.a.us\-0.dds
 - name: remastered\obj\W_EX010_90_WI.a.us\-1.dds
   platform: pc
   method: copy
   source:
+  - name: remastered\obj\W_EX010_90.a.us\-0.dds
+- name: remastered\obj\W_EX010_90_WI.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
   - name: remastered\obj\W_EX010_90.a.us\-1.dds
+#- name: remastered\obj\W_EX010_90_WI.a.us\-0.dds
+#  platform: pc
+#  method: copy
+#  source:
+#  - name: remastered\obj\W_EX010_90.a.us\-0.dds
+#- name: remastered\obj\W_EX010_90_WI.a.us\-1.dds
+#  platform: pc
+#  method: copy
+#  source:
+#  - name: remastered\obj\W_EX010_90.a.us\-1.dds
   #Spellbinder: Models
 - name: remastered\obj\W_EX010_90.mdlx\-0.dds
   platform: pc
