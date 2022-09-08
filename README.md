@@ -1,6 +1,9 @@
 # KH1Keyblades-With-Effects
 Imports every KH1 keyblade into KH2, including their same effects from KH1. <br/>
 
+Icon by Televo:<br/>
+https://github.com/Televo/kingdom-hearts-recollection
+
 Rumbling Rose    -> Divine Rose<br/>
 Hero's Crest     -> Olympia<br/>
 Mysterious Abyss -> Crabclaw<br/>
